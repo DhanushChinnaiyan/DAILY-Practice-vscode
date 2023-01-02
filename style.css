@@ -1,5 +1,10 @@
 .card{
-    /* width: 200px; */
+    width: 200px;
+
+    border: 1px solid black;
+}
+#student-list{
     display: grid;
-    
+    grid-template-columns: repeat(4,1fr);
+  /* border: 1px solid black; */
 }
