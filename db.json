@@ -16,30 +16,30 @@
   
     "students": [
       {
-        "name": "name 1",
+        "name": "dhanush",
         "class": "class 1",
-        "country": "country 1",
+        "country": "india",
         "image": "image1",
         "id": "1"
       },
       {
-        "name": "name 2",
+        "name": "vikram",
         "class": "class 2",
-        "country": "country 2",
+        "country": "pakistan",
         "image": "image 2",
         "id": "2"
       },
       {
-        "name": "name 3",
+        "name": "vignesh",
         "class": "class 3",
-        "country": "country 3",
+        "country": "dubai",
         "image": "image 3",
         "id": "3"
       },
       {
-        "name": "name 4",
+        "name": "praveen",
         "class": "class 4",
-        "country": "country 4",
+        "country": "china ",
         "image": "image 4",
         "id": "4"
       }
