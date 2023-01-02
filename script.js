@@ -13,9 +13,9 @@ document.addEventListener("DOMContentLoaded",()=>{
         <h5 class="card-title">${ele.name}</h5>
   <div class="card-body">
     <p class="card-text">
-    <div>Capital: ${ele.class}</div>
-    <div>Region: ${ele.country}</div>
-    <div>Country Code: ${ele.image}</div>
+    <div>Class: ${ele.class}</div>
+    <div>Country: ${ele.country}</div>
+    <div>Image: ${ele.image}</div>
     </p>
   </div>
 </div>`
