@@ -1,0 +1,51 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+  
+    "students": [
+      {
+        "name": "name 1",
+        "class": "class 1",
+        "country": "country 1",
+        "image": "https://res.cloudinary.com/dmsxwwfb5/image/upload/v1595866967/full-stack-devlopment-min.png",
+        "id": "1"
+      },
+      {
+        "name": "name 2",
+        "class": "class 2",
+        "country": "country 2",
+        "image": "image 2",
+        "id": "2"
+      },
+      {
+        "name": "name 3",
+        "class": "class 3",
+        "country": "country 3",
+        "image": "image 3",
+        "id": "3"
+      },
+      {
+        "name": "name 4",
+        "class": "class 4",
+        "country": "country 4",
+        "image": "image 4",
+        "id": "4"
+      }
+    ],
+  
+    "profile": {
+      "name": "typicode"
+    }
+  }
