@@ -2,6 +2,7 @@
     width: 200px;
 
     border: 1px solid black;
+    padding: 5px !important;
 }
 #student-list{
     display: grid;
